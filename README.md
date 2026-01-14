@@ -2,7 +2,7 @@
 
 An AI-powered study platform that transforms your notes into interactive learning tools.
 
-Live Demo: https://ai-study-engine.onrender.com
+Live Demo: [https://ai-study-engine.onrender.com](https://ai-study-engine-clean.onrender.com/)
 
 GitHub: https://github.com/EmonKarmaker/ai-study-engine
 
