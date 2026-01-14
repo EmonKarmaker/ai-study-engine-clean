@@ -101,7 +101,7 @@ App opens at http://localhost:8501
 
 Deployed on Render with Docker.
 
-Live URL: https://ai-study-engine.onrender.com
+Live URL: [https://ai-study-engine.onrender.com](https://ai-study-engine-clean.onrender.com)
 
 To deploy your own:
 1. Push code to GitHub
