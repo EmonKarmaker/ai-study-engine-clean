@@ -2,9 +2,9 @@
 
 An AI-powered study platform that transforms your notes into interactive learning tools.
 
-Live Demo: [https://ai-study-engine.onrender.com](https://ai-study-engine-clean.onrender.com/)
+[Live Demo:](https://ai-study-engine-clean.onrender.com/)
 
-GitHub: [https://github.com/EmonKarmaker/ai-study-engine](https://github.com/EmonKarmaker/ai-study-engine-clean)
+[GitHub:](https://github.com/EmonKarmaker/ai-study-engine-clean)
 
 ---
 
@@ -101,7 +101,7 @@ App opens at http://localhost:8501
 
 Deployed on Render with Docker.
 
-Live URL: [https://ai-study-engine.onrender.com](https://ai-study-engine-clean.onrender.com)
+[Live URL:](https://ai-study-engine-clean.onrender.com)
 
 To deploy your own:
 1. Push code to GitHub
